@@ -1,0 +1,16 @@
+/* MapComponent.css */
+
+  .leaflet-container {
+    
+    height:100%; 
+    width: 100vw;
+ 
+  }
+  
+  .marker-icon {
+    background-color: #ff6347;
+    border-radius: 50%;
+    width: 20px;
+    height: 20px;
+  }
+  
