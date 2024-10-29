@@ -1,4 +1,4 @@
-# Interactive Map Application
+# PinTrail : Interactive Map Application
 
 An interactive map application built with React and Leaflet, allowing users to add pins with associated remarks to a map, view them in a sidebar, and navigate easily. The app features geolocation capabilities to fetch addresses for pin locations.
 
