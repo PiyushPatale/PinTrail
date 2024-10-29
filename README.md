@@ -19,9 +19,6 @@ An interactive map application built with React and Leaflet, allowing users to a
 - **OpenStreetMap**: For map tiles and geolocation services.
 - **CSS**: For styling the application components.
 
-## Installation
+## Deploy Link
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
-   cd your-repo-name
+- https://pintrail.vercel.app/
